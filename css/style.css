@@ -248,9 +248,14 @@ img {
     background-color: rgba(0, 0, 0, 0.1);
   }
 
-  .showcase-form {
+  .showcase-form{
     justify-self: center;
     margin: auto;
+  }
+
+  .showcase-text p {
+    padding: 40px;
+
   }
 }
 
